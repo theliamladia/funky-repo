@@ -1,0 +1,23 @@
+<div class="seolp">
+
+<div class="mainimage">
+    <div class="mainimagetext">
+    <h1> Discover The New 2018 BMW 4 Series in Columbia, SC</h1>
+    <h2> The BMW 4 Series </h2>
+    </div>
+</div>
+</div>
+
+
+<style>
+.seolp { width:100%; margin:0% auto;}
+/*Mainimage Styling */
+.mainimage:hover { background:linear-gradient(0deg,rgba(27,105,212,0.3),rgba(27,105,212,0.2)),url(https://cka-dash.s3.amazonaws.com/003-0118-BC234/mainimage.jpg); background-size:cover;}
+.mainimage {width:100%; background-image: url("https://cka-dash.s3.amazonaws.com/003-0118-BC234/mainimage.jpg"); background-size:cover; }
+.mainimagetext h1 {padding-top:30%; }
+.mainimagetext { padding-left:2%; padding-bottom:20px; }
+.mainimage h1 { font-size:2em; color:#fff; }
+.mainimage h2 { margin-top:-30px; font-size:5em; color:#fff; }
+
+
+</style>
